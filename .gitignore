@@ -8,6 +8,7 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.vscode/
 
 # 操作系统与编辑器
 .DS_Store
